@@ -3,6 +3,7 @@
 }
 body {
   margin: 0px;
+  background-color: rgb(202, 188, 163);
 }
 .column-container {
   display: flex;
